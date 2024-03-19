@@ -1,0 +1,136 @@
+{
+  "floorplans": [
+    {
+      "residence": 1,
+      "image": "../assets/images/SenecaHouse - Residence 1.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 550,
+      "category": "One Bedrooms",
+      "pdf": "../assets/pdf/Seneca House Residence-1.pdf"
+    },
+    {
+      "residence": 2,
+      "image": "../assets/images/SenecaHouse - Residence 2.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 750,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-2.pdf"
+    },
+    {
+      "residence": 3,
+      "image": "../assets/images/SenecaHouse - Residence 3.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 767,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-3.pdf"
+    },
+    {
+      "residence": 4,
+      "image": "../assets/images/SenecaHouse - Residence 4.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 550,
+      "category": "One Bedrooms",
+      "pdf": "../assets/pdf/Seneca House Residence-4.pdf"
+    },
+    {
+      "residence": 5,
+      "image": "../assets/images/SenecaHouse - Residence 5.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 767,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-5.pdf"
+    },
+    {
+      "residence": 6,
+      "image": "../assets/images/SenecaHouse - Residence 6.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 750,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-6.pdf"
+    },
+    {
+      "residence": 7,
+      "image": "../assets/images/SenecaHouse - Residence 7.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 692,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-7.pdf"
+    },
+    {
+      "residence": 8,
+      "image": "../assets/images/SenecaHouse - Residence 8.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 767,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-8.pdf"
+    },
+    {
+      "residence": 9,
+      "image": "../assets/images/SenecaHouse - Residence 9.webp",
+      "bed": 1,
+      "bath": 1,
+      "SF": 767,
+      "category": "One Bedrooms + Den",
+      "pdf": "../assets/pdf/Seneca House Residence-9.pdf"
+    },
+    {
+      "residence": 10,
+      "image": "../assets/images/SenecaHouse - Residence 10.webp",
+      "bed": 2,
+      "bath": 2,
+      "SF": 1336,
+      "category": "Penthouse",
+      "pdf": "../assets/pdf/Seneca House Residence-10.pdf"
+    }
+  ],
+  "galleryimages": [
+    {
+      "original": "../assets/images/Seneca House neighborhood 01.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 01.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 02.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 02.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 03.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 03.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 04.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 04.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 05.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 05.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 06.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 06.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 07.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 07.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 08.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 08.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 09.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 09.webp"
+    },
+    {
+      "original": "../assets/images/Seneca House neighborhood 10.webp",
+      "origthumbnailinal": "../assets/images/Seneca House neighborhood 10.webp"
+    }
+  ]
+}
