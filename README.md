@@ -1,5 +1,6 @@
 # Seneca House
-This site is a Real Estate Site meant to display and promote a building in washington, dc called "Seneca House". It is being created by Carel Creative by developer Brendan McBryan for the client Urban Pace. The site's URL, active at time of deploment, is https://senecahousedc.com/.
+THis NextJS site is to show off using react and next. 
+
 
 ## Tools 
 Next.js alont with React-Bootstrap are the tools being used. 
